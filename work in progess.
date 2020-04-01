@@ -1,0 +1,564 @@
+Next update for BIGTREETECH skr pro V1.1 that WILL work be done asap! so stay updated for more information/updates.
+
+
+https://www.youtube.com/watch?v=VsKHwYtqLz0&list=PLP-VDZmS6bFraOp-kfLgmLx4HyBsTfXJd
+
+The basics video I followed and here is what I got.
+
+
+
+
+
+
+
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\motion\M290.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\parser.cpp.o
+
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\probe\G30.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\probe\G31_G32.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\probe\G38.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\probe\M401_M402.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\probe\M851.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\probe\M951.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\queue.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\scara\M360-M364.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M1001.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M20.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M21_M22.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M23.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M24_M25.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M26.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M27.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M28_M29.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M30.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M32.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M33.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M34.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M524.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\sd\M928.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\stats\M31.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\stats\M75-M78.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M104_M109.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M105.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M106_M107.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M140_M190.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M141_M191.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M155.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\temp\M303.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\units\G20_G21.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\units\M149.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\gcode\units\M82_M83.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\HD44780\lcdprint_hd44780.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\HD44780\ultralcd_HD44780.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\lcdprint_u8g.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\status_screen_DOGM.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\status_screen_lite_ST7920.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\u8g_dev_ssd1306_sh1106_128x64_I2C.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\u8g_dev_st7565_64128n_HAL.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\u8g_dev_st7920_128x64_HAL.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\u8g_dev_tft_320x240_upscale_from_128x64.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\u8g_dev_uc1701_mini12864_HAL.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\u8g_fontutf8.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\ultralcd_DOGM.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\dogm\ultralcd_st7920_u8glib_rrd_AVR.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\dgus\DGUSDisplay.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\dgus\fysetc\DGUSDisplayDef.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\dgus\hiprecy\DGUSDisplayDef.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\dgus\origin\DGUSDisplayDef.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\archim2-flash\flash_storage.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\archim2-flash\media_file_reader.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\basic\commands.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\basic\spi.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\command_process
+or.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\dl_cache.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\event_loop.cpp.
+o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\screen_types.cp
+p.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\sound_player.cp
+p.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\text_box.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\tiny_timer.cpp.
+o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\unicode\font_bi
+tmaps.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\unicode\font_si
+ze_t.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\unicode\standar
+d_char_set.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\unicode\unicode
+.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\ftdi_eve_lib\extended\unicode\western
+_char_set.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\language\language.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\marlin_events.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\about_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\advanced_settings_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\alert_dialog_box.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\backlash_compensation_screen.
+cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\base_numeric_adjustment_scree
+n.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\base_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_advanced_settings.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_confirm_home_e.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_confirm_home_xyz.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_main_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_printing_dialog_box.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_status_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\bio_tune_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\boot_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\case_light_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\change_filament_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\confirm_abort_print_dialog_bo
+x.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\confirm_auto_calibration_dial
+og_box.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\confirm_erase_flash_dialog_bo
+x.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\confirm_start_print_dialog_bo
+x.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\confirm_user_request_alert_bo
+x.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\default_acceleration_screen.c
+pp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\developer_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\dialog_box_base_class.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\display_tuning_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\endstop_state_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\feedrate_percent_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\filament_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\filament_runout_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\files_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\interface_settings_screen.cpp
+.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\interface_sounds_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\jerk_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\junction_deviation_screen.cpp
+.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\kill_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\language_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\linear_advance_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\lock_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\main_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\max_acceleration_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\max_velocity_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\media_player_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\move_axis_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\nozzle_offsets_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\nudge_nozzle_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\preheat_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\preheat_timer_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\restore_failsafe_dialog_box.c
+pp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\save_settings_dialog_box.cpp.
+o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\screens.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\spinner_dialog_box.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\statistics_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\status_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\stepper_bump_sensitivity_scre
+en.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\stepper_current_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\steps_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\stress_test_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\string_format.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\temperature_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\touch_calibration_screen.cpp.
+o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\touch_registers_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\tune_menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\widget_demo_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\screens\z_offset_screen.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\lib\ftdi_eve_touch_ui\theme\sounds.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui\ui_api.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui_dgus_lcd.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui_example.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\extui_malyan_lcd.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\fontutils.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\lcdprint.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\game\brickout.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\game\game.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\game\invaders.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\game\maze.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\game\snake.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_advanced.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_backlash.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_bed_corners.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_bed_leveling.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_cancelobject.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_configuration.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_custom.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_delta_calibrate.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_filament.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_game.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_info.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_job_recovery.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_led.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_main.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_media.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_mixer.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_mmu2.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_motion.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_spindle_laser.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_temperature.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_tmc.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_tune.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\menu\menu_ubl.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\lcd\ultralcd.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\L64XX\L64XX_Marlin.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\buzzer.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\crc16.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\heatshrink\heatshrink_decoder.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\hex_print_routines.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\least_squares_fit.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\nozzle.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\numtostr.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\stopwatch.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\libs\vector_3.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\configuration_store.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\delta.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\endstops.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\motion.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\planner.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\planner_bezier.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\printcounter.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\probe.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\scara.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\servo.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\stepper\L64xx.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\stepper\TMC26X.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\stepper\indirection.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\stepper\trinamic.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\temperature.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\module\tool_change.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\Sd2Card.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\SdBaseFile.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\SdFatUtil.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\SdFile.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\SdVolume.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\cardreader.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\usb_flashdrive\Sd2Card_FlashDrive.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\usb_flashdrive\lib-uhs2\Usb.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\usb_flashdrive\lib-uhs2\masstorage.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\usb_flashdrive\lib-uhs2\message.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\usb_flashdrive\lib-uhs2\parsetools.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\src\src\sd\usb_flashdrive\lib-uhs2\usbhost.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib8ad\Wire\Wire.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\FastIO.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\I2CIO.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LCD.cpp.o
+In file included from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.cpp:43:0:
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:217:106: warning: 'boolean' is deprecated [-Wdeprecated-
+declarations]
+ void fio_shiftOut1(fio_register shift1Register, fio_bit shift1Bit, uint8_t value, boolean noLatch = false);
+                                                                                                          ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:225:71: warning: 'boolean' is deprecated [-Wdeprecated-d
+eclarations]
+ void fio_shiftOut1(uint8_t pin, uint8_t value, boolean noLatch = false);
+                                                                       ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.cpp:202:35: warning: 'boolean' is deprecated [-Wdeprecated
+-declarations]
+                    boolean noLatch)
+                                   ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.cpp:275:63: warning: 'boolean' is deprecated [-Wdeprecated
+-declarations]
+ void fio_shiftOut1(uint8_t pin, uint8_t value, boolean noLatch)
+                                                               ^
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\lib8ad\libWire.a
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_I2C.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_I2C_ByVac.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_SI2C.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_SR.cpp.o
+In file included from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal.h:45:0,
+                 from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal.cpp:50:
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:217:106: warning: 'boolean' is deprecated [-Wdeprecated-
+declarations]
+ void fio_shiftOut1(fio_register shift1Register, fio_bit shift1Bit, uint8_t value, boolean noLatch = false);
+                                                                                                          ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:225:71: warning: 'boolean' is deprecated [-Wdeprecated-d
+eclarations]
+ void fio_shiftOut1(uint8_t pin, uint8_t value, boolean noLatch = false);
+                                                                       ^
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_SR1W.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_SR2W.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\LiquidCrystal_SR3W.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2b8\LiquidCrystal_ID136\SI2CIO.cpp.o
+In file included from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal_SR.h:97:0,
+                 from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal_SR.cpp:102:
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:217:106: warning: 'boolean' is deprecated [-Wdeprecated-
+declarations]
+ void fio_shiftOut1(fio_register shift1Register, fio_bit shift1Bit, uint8_t value, boolean noLatch = false);
+                                                                                                          ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:225:71: warning: 'boolean' is deprecated [-Wdeprecated-d
+eclarations]
+ void fio_shiftOut1(uint8_t pin, uint8_t value, boolean noLatch = false);
+                                                                       ^
+Compiling .pio\build\BIGTREE_SKR_PRO\libf95\SPI\SPI.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\CHOPCONF.cpp.o
+In file included from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal_SR3W.h:75:0,
+                 from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal_SR3W.cpp:92:
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:217:106: warning: 'boolean' is deprecated [-Wdeprecated-
+declarations]
+ void fio_shiftOut1(fio_register shift1Register, fio_bit shift1Bit, uint8_t value, boolean noLatch = false);
+                                                                                                          ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:225:71: warning: 'boolean' is deprecated [-Wdeprecated-d
+eclarations]
+ void fio_shiftOut1(uint8_t pin, uint8_t value, boolean noLatch = false);
+                                                                       ^
+In file included from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal_SR2W.h:138:0,
+                 from .pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\LiquidCrystal_SR2W.cpp:44:
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:217:106: warning: 'boolean' is deprecated [-Wdeprecated-
+declarations]
+ void fio_shiftOut1(fio_register shift1Register, fio_bit shift1Bit, uint8_t value, boolean noLatch = false);
+                                                                                                          ^
+.pio\libdeps\BIGTREE_SKR_PRO\LiquidCrystal_ID136\FastIO.h:225:71: warning: 'boolean' is deprecated [-Wdeprecated-d
+eclarations]
+ void fio_shiftOut1(uint8_t pin, uint8_t value, boolean noLatch = false);
+                                                                       ^
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\COOLCONF.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\lib2b8\libLiquidCrystal_ID136.a
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\DRVCONF.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\libf95\libSPI.a
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\DRVCTRL.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\DRVSTATUS.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\DRV_CONF.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\DRV_STATUS.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\ENCMODE.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\GCONF.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\IHOLD_IRUN.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\PWMCONF.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\RAMP_STAT.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\SERIAL_SWITCH.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\SGCSCONF.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\SHORT_CONF.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\SMARTEN.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\SW_MODE.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\SW_SPI.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC2130Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC2160Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC2208Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC2209Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC2660Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC5130Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMC5160Stepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba17\TMCStepper_ID5513\source\TMCStepper.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib067\Adafruit NeoPixel_ID28\Adafruit_NeoPixel.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib067\Adafruit NeoPixel_ID28\esp8266.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\U8glib.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\U8glibPrint.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\liba17\libTMCStepper_ID5513.a
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\chessengine.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_bitmap.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_circle.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_clip.c.o
+Archiving .pio\build\BIGTREE_SKR_PRO\lib067\libAdafruit NeoPixel_ID28.a
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_api.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_api_16gr.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_attiny85_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_common.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_fast_parallel.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_hw_usart_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_no_en_parallel.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_parallel.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_port_d_wr.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_ssd_i2c.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_st7920_custom.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_st7920_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_st7920_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_std_sw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_sw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_t6963.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_arduino_uc_i2c.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atmega_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atmega_parallel.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atmega_st7920_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atmega_st7920_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atmega_sw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atxmega_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_atxmega_st7920_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_esp32_ssd_i2c_fn.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_i2c.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_io.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_linux_ssd_i2c.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_msp430_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_null.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_psoc5_ssd_hw_parallel.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_raspberrypi_hw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_raspberrypi_ssd_i2c.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_samd51_hw_spi.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_samd51_st7920_hw_spi.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_std_sw_spi.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_stm32duino_hw_spi.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_com_stm32duino_ssd_i2c.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_cursor.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_delay.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_a2_micro_printer.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_flipdisc_2x7.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_gprof.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ht1632.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ili9325d_320x240.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ks0108_128x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_lc7981_160x80.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_lc7981_240x128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_lc7981_240x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_lc7981_320x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ld7032_60x32.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_null.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_pcd8544_84x48.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_pcf8812_96x65.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_sbn1661_122x32.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1306_128x32.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1306_128x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1306_64x48.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1309_128x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1322_nhd31oled_bw.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1322_nhd31oled_gr.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1325_nhd27oled_bw.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1325_nhd27oled_bw_new.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1325_nhd27oled_gr.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1325_nhd27oled_gr_new.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1327_96x96_gr.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1351_128x128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_ssd1353_160x128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_64128n.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_dogm128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_dogm132.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_lm6059.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_lm6063.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_nhd_c12832.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7565_nhd_c12864.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7687_c144mvgd.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7920_128x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7920_192x32.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_st7920_202x32.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_t6963_128x128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_t6963_128x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_t6963_240x128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_t6963_240x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_tls8204_84x48.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1601_c128032.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1608_240x128.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1608_240x64.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1610_dogxl160.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1611_dogm240.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1611_dogxl240.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1701_dogs102.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_dev_uc1701_mini12864.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_ellipse.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_font.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_font_data.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_line.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_ll_api.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_page.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb14v1.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb16h1.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb16h2.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb16v1.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb16v2.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb32h1.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb8h1.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb8h1f.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb8h2.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb8h8.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb8v1.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pb8v2.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pbxh16.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_pbxh24.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_polygon.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_rect.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_rot.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_scale.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_state.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_u16toa.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_u8toa.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\liba49\U8glib-HAL_ID1932\clib\u8g_virtual_screen.c.o
+Compiling .pio\build\BIGTREE_SKR_PRO\libd05\Adafruit_MAX31865\Adafruit_MAX31865.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib2a5\LiquidTWI2\LiquidTWI2.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\libc23\Arduino-L6470\L6470.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\libd05\libAdafruit_MAX31865.a
+Compiling .pio\build\BIGTREE_SKR_PRO\libac8\SailfishLCD\SailfishLCD.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\lib2a5\libLiquidTWI2.a
+Archiving .pio\build\BIGTREE_SKR_PRO\libc23\libArduino-L6470.a
+Compiling .pio\build\BIGTREE_SKR_PRO\libae2\SailfishRGB_LED\SailfishRBG_LED.cpp.o
+Compiling .pio\build\BIGTREE_SKR_PRO\lib20a\SlowSoftI2CMaster\SlowSoftI2CMaster.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\libac8\libSailfishLCD.a
+Compiling .pio\build\BIGTREE_SKR_PRO\libd64\Servo\stm32\Servo.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\libae2\libSailfishRGB_LED.a
+Compiling .pio\build\BIGTREE_SKR_PRO\lib359\IWatchdog\IWatchdog.cpp.o
+Archiving .pio\build\BIGTREE_SKR_PRO\lib20a\libSlowSoftI2CMaster.a
+Archiving .pio\build\BIGTREE_SKR_PRO\libd64\libServo.a
+Archiving .pio\build\BIGTREE_SKR_PRO\lib359\libIWatchdog.a
+Archiving .pio\build\BIGTREE_SKR_PRO\liba49\libU8glib-HAL_ID1932.a
+Linking .pio\build\BIGTREE_SKR_PRO\firmware.elf
+Building .pio\build\BIGTREE_SKR_PRO\firmware.bin
+Checking size .pio\build\BIGTREE_SKR_PRO\firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [          ]   3.9% (used 7572 bytes from 196608 bytes)
+Flash: [=         ]   8.1% (used 85168 bytes from 1048576 bytes)
+======================== [SUCCESS] Took 332.43 seconds ========================
+ 
+Environment               Status    Duration
+------------------------  --------  ------------
+mega2560                  IGNORED
+mega1280                  IGNORED
+rambo                     IGNORED
+FYSETC_F6_13              IGNORED
+FYSETC_F6_14              IGNORED
+sanguino644p              IGNORED
+sanguino1284p             IGNORED
+melzi                     IGNORED
+melzi_optiboot            IGNORED
+at90usb1286_cdc           IGNORED
+at90usb1286_dfu           IGNORED
+DUE                       IGNORED
+DUE_USB                   IGNORED
+DUE_debug                 IGNORED
+LPC1768                   IGNORED
+LPC1769                   IGNORED
+STM32F103RC               IGNORED
+STM32F103RC_fysetc        IGNORED
+STM32F103RC_btt           IGNORED
+STM32F103RC_btt_USB       IGNORED
+STM32F103RC_btt_512K      IGNORED
+STM32F103RC_btt_512K_USB  IGNORED
+STM32F103RE               IGNORED
+STM32F103RE_btt           IGNORED
+STM32F103RE_btt_USB       IGNORED
+STM32F4                   IGNORED
+STM32F7                   IGNORED
+ARMED                     IGNORED
+STM32F103VE_GTM32         IGNORED
+STM32F103VE_longer        IGNORED
+mks_robin_mini            IGNORED
+mks_robin_nano            IGNORED
+mks_robin                 IGNORED
+mks_robin_pro             IGNORED
+mks_robin_lite            IGNORED
+mks_robin_lite3           IGNORED
+jgaurora_a5s_a1           IGNORED
+STM32F103CB_malyan        IGNORED
+chitu_f103                IGNORED
+STM32F401VE_STEVAL        IGNORED
+FLYF407ZG                 IGNORED
+FYSETC_S6                 IGNORED
+STM32F407VE_black         IGNORED
+BIGTREE_SKR_PRO           SUCCESS   00:05:32.429
+BIGTREE_GTR_V1_0          IGNORED
+BIGTREE_BTT002            IGNORED
+teensy31                  IGNORED
+teensy35                  IGNORED
+esp32                     IGNORED
+linux_native              IGNORED
+SAMD51_grandcentral_m4    IGNORED
+rumba32_f446ve            IGNORED
+rumba32_mks               IGNORED
+include_tree              IGNORED
+========================= 1 succeeded in 00:05:32.429 =========================
+ 
